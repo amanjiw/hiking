@@ -1,0 +1,226 @@
+import { THikingList } from "@/types/hiking";
+
+export const images: THikingList = [
+	{
+		id: 1,
+		title: "Misty Ridge",
+		description:
+			"A misty morning on the ridge with soft light and long views.",
+		tags: ["mist", "ridge", "sunrise"],
+		location: "Alpine Trail",
+		src: "/assets/images/hiking/1.jpg",
+	},
+
+	{
+		id: 2,
+		title: "Forest Path",
+		description: "A quiet forest path with sunbeams through the trees.",
+		tags: ["forest", "path", "sunlight"],
+		location: "Greenwood Trail",
+		src: "/assets/images/hiking/2.jpg",
+	},
+
+	{
+		id: 3,
+		title: "Crystal Lake",
+		description: "A serene lake reflecting the mountains and clouds above.",
+		tags: ["lake", "reflection", "mountains"],
+		location: "Lakeview Trail",
+		src: "/assets/images/hiking/3.jpg",
+	},
+
+	{
+		id: 4,
+		title: "Rocky Summit",
+		description:
+			"A rugged summit with panoramic views of the valleys below.",
+		tags: ["rock", "summit", "view"],
+		location: "Summit Trail",
+		src: "/assets/images/hiking/4.jpg",
+	},
+	{
+		id: 5,
+		title: "Wildflower Meadow",
+		description: "A colorful meadow filled with blooming wildflowers.",
+		tags: ["flowers", "meadow", "nature"],
+		location: "Meadow Walk",
+		src: "/assets/images/hiking/5.jpg",
+	},
+	{
+		id: 6,
+		title: "Foggy Canyon",
+		description: "A canyon shrouded in morning fog, mysterious and calm.",
+		tags: ["fog", "canyon", "morning"],
+		location: "Canyon Trail",
+		src: "/assets/images/hiking/6.jpg",
+	},
+	{
+		id: 7,
+		title: "Golden Valley",
+		description: "A valley glowing with golden sunlight at dawn.",
+		tags: ["valley", "sunrise", "golden"],
+		location: "Valley Route",
+		src: "/assets/images/hiking/7.jpg",
+	},
+
+	{
+		id: 8,
+		title: "Pine Ridge",
+		description: "A ridge lined with tall pine trees swaying in the wind.",
+		tags: ["pine", "ridge", "trees"],
+		location: "Pine Trail",
+		src: "/assets/images/hiking/8.jpg",
+	},
+	{
+		id: 9,
+		title: "Hidden Waterfall",
+		description: "A hidden waterfall cascading into a crystal-clear pool.",
+		tags: ["waterfall", "hidden", "pool"],
+		location: "Waterfall Path",
+		src: "/assets/images/hiking/9.jpg",
+	},
+	{
+		id: 10,
+		title: "Sunlit Cliff",
+		description: "A cliff bathed in warm sunlight with breathtaking views.",
+		tags: ["cliff", "sunlight", "view"],
+		location: "Cliffside Trail",
+		src: "/assets/images/hiking/10.jpg",
+	},
+	{
+		id: 11,
+		title: "Autumn Woods",
+		description: "A forest filled with autumn colors and falling leaves.",
+		tags: ["autumn", "woods", "leaves"],
+		location: "Autumn Trail",
+		src: "/assets/images/hiking/11.jpg",
+	},
+	{
+		id: 12,
+		title: "Serene Hills",
+		description: "Gentle hills rolling under a clear blue sky.",
+		tags: ["hills", "serene", "sky"],
+		location: "Hilltop Walk",
+		src: "/assets/images/hiking/12.jpg",
+	},
+	{
+		id: 13,
+		title: "Sunset Peak",
+		description:
+			"A stunning sunset illuminating the mountain peak with vibrant colors.",
+		tags: ["sunset", "peak", "mountain"],
+		location: "Highland Path",
+		src: "/assets/images/hiking/13.jpg",
+	},
+	{
+		id: 21,
+		title: "Misty Ridge",
+		description:
+			"A misty morning on the ridge with soft light and long views.",
+		tags: ["mist", "ridge", "sunrise"],
+		location: "Alpine Trail",
+		src: "/assets/images/hiking/1.jpg",
+	},
+
+	{
+		id: 22,
+		title: "Forest Path",
+		description: "A quiet forest path with sunbeams through the trees.",
+		tags: ["forest", "path", "sunlight"],
+		location: "Greenwood Trail",
+		src: "/assets/images/hiking/2.jpg",
+	},
+
+	{
+		id:23,
+		title: "Crystal Lake",
+		description: "A serene lake reflecting the mountains and clouds above.",
+		tags: ["lake", "reflection", "mountains"],
+		location: "Lakeview Trail",
+		src: "/assets/images/hiking/3.jpg",
+	},
+
+	{
+		id: 24,
+		title: "Rocky Summit",
+		description:
+			"A rugged summit with panoramic views of the valleys below.",
+		tags: ["rock", "summit", "view"],
+		location: "Summit Trail",
+		src: "/assets/images/hiking/4.jpg",
+	},
+	{
+		id: 25,
+		title: "Wildflower Meadow",
+		description: "A colorful meadow filled with blooming wildflowers.",
+		tags: ["flowers", "meadow", "nature"],
+		location: "Meadow Walk",
+		src: "/assets/images/hiking/5.jpg",
+	},
+	{
+		id: 26,
+		title: "Foggy Canyon",
+		description: "A canyon shrouded in morning fog, mysterious and calm.",
+		tags: ["fog", "canyon", "morning"],
+		location: "Canyon Trail",
+		src: "/assets/images/hiking/6.jpg",
+	},
+	{
+		id: 27,
+		title: "Golden Valley",
+		description: "A valley glowing with golden sunlight at dawn.",
+		tags: ["valley", "sunrise", "golden"],
+		location: "Valley Route",
+		src: "/assets/images/hiking/7.jpg",
+	},
+
+	{
+		id: 28,
+		title: "Pine Ridge",
+		description: "A ridge lined with tall pine trees swaying in the wind.",
+		tags: ["pine", "ridge", "trees"],
+		location: "Pine Trail",
+		src: "/assets/images/hiking/8.jpg",
+	},
+	{
+		id: 29,
+		title: "Hidden Waterfall",
+		description: "A hidden waterfall cascading into a crystal-clear pool.",
+		tags: ["waterfall", "hidden", "pool"],
+		location: "Waterfall Path",
+		src: "/assets/images/hiking/9.jpg",
+	},
+	{
+		id: 30,
+		title: "Sunlit Cliff",
+		description: "A cliff bathed in warm sunlight with breathtaking views.",
+		tags: ["cliff", "sunlight", "view"],
+		location: "Cliffside Trail",
+		src: "/assets/images/hiking/10.jpg",
+	},
+	{
+		id: 31,
+		title: "Autumn Woods",
+		description: "A forest filled with autumn colors and falling leaves.",
+		tags: ["autumn", "woods", "leaves"],
+		location: "Autumn Trail",
+		src: "/assets/images/hiking/11.jpg",
+	},
+	{
+		id: 32,
+		title: "Serene Hills",
+		description: "Gentle hills rolling under a clear blue sky.",
+		tags: ["hills", "serene", "sky"],
+		location: "Hilltop Walk",
+		src: "/assets/images/hiking/12.jpg",
+	},
+	{
+		id: 33,
+		title: "Sunset Peak",
+		description:
+			"A stunning sunset illuminating the mountain peak with vibrant colors.",
+		tags: ["sunset", "peak", "mountain"],
+		location: "Highland Path",
+		src: "/assets/images/hiking/13.jpg",
+	},
+];
